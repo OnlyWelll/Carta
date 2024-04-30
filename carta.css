@@ -1,0 +1,15 @@
+body{
+    padding: 5% 20%;
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: gray;
+}
+
+.tittle{
+    text-align: center;
+}
+
+.paratt{
+    text-align: end;
+}
+
